@@ -13,6 +13,8 @@
 exp(-2)
 rnorm(15)
 
+###jdkbckjsbcjksbckjbsdjkbsv
+
 # assignments
 x <- 2 
 x
