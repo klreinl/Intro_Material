@@ -19,7 +19,6 @@ rnorm(15)
 x <- 2 
 x
 x+x
-### hi
 # vectorized arithmetic
 weight <- c(60, 72, 57, 90, 95, 72)
 weight
